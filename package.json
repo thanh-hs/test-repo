@@ -1,0 +1,20 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "just for testing git repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanh-hs/test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanh-hs/test-repo/issues"
+  },
+  "homepage": "https://github.com/thanh-hs/test-repo#readme"
+}
